@@ -1,0 +1,9 @@
+h1,p {
+	color:#ffffff;	
+}
+ h1 {font-size:30px;}
+span {color:grey;}
+.floatin {	position:absolute;
+	padding-left:2vw;
+	color:#ffffff;
+	font-size:15px;}
